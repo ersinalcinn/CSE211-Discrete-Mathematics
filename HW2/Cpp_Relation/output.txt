@@ -1,0 +1,48 @@
+n
+(a,a)(a,b)(a,e)(b,b)(b,e)(c,c)(c,d)(d,d)(e,e)
+Reflexive: Yes, all elements are present.
+Symmetric: No,(b,a) is not found whereas (a,b) is found
+Antisymmetric: Yes,(b,a) is not found whereas(a,b) is found
+Transitive:Yes
+n
+(a,a)(a,b)(b,a)(b,b)(c,c)(c,d)(d,c)(d,d)
+Reflexive: No, all elements are  not present.(e,e)  not found
+Symmetric: Yes, all elements are present.
+Antisymmetric: No,(a,a)  are found 
+Transitive:Yes
+n
+(a,a)(b,b)(c,c)(d,d)(e,e)
+Reflexive: Yes, all elements are present.
+Symmetric: Yes, all elements are present.
+Antisymmetric: No,(a,a)  are found 
+Transitive:Yes
+n
+(1,1)(1,2)(2,1)
+Reflexive: No, all elements are  not present.(2,2)  not found
+Symmetric: Yes, all elements are present.
+Antisymmetric: No,(1,1)  are found 
+Transitive:No
+n
+(1,1)(1,2)(2,1)(2,2)(3,4)(4,1)(4,4)
+Reflexive: No, all elements are  not present.(3,3)  not found
+Symmetric: No,(4,3) is not found whereas (3,4) is found
+Antisymmetric: Yes,(4,3) is not found whereas(3,4) is found
+Transitive:No
+n
+(2,1)(3,1)(3,2)(4,1)(4,2)(4,3)
+Reflexive: No, all elements are  not present.(1,1)  not found
+Symmetric: No,(1,2) is not found whereas (2,1) is found
+Antisymmetric: Yes,(1,2) is not found whereas(2,1) is found
+Transitive:Yes
+n
+(1,1)(1,2)(1,3)(1,4)(2,2)(2,3)(2,4)(3,3)(3,4)(4,4)
+Reflexive: Yes, all elements are present.
+Symmetric: No,(2,1) is not found whereas (1,2) is found
+Antisymmetric: Yes,(2,1) is not found whereas(1,2) is found
+Transitive:Yes
+n
+(1,1)(1,2)(1,4)(2,1)(2,2)(3,3)(4,1)(4,4)
+Reflexive: Yes, all elements are present.
+Symmetric: Yes, all elements are present.
+Antisymmetric: No,(1,1)  are found 
+Transitive:No
